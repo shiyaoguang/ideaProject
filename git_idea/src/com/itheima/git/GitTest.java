@@ -6,5 +6,8 @@ public class GitTest {
         System.out.println("改变");
         System.out.println("改变");
         System.out.println("改变");
+        System.out.println("改变");
+        System.out.println("改变");
+        System.out.println("改变");
     }
 }
